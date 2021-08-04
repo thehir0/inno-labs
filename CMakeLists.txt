@@ -3,4 +3,4 @@ project(lab4aug)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(lab4aug main.cpp)
+add_executable(lab4aug "4aug_TSP(optional).cpp")
